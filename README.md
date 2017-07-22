@@ -15,8 +15,9 @@
 * 각 요구사항을 구현하는 것이 중요한 것이 아니라 구현 과정을 통해 학습한 내용을 인식하는 것이 배움에 중요하다. 
 
 ### 요구사항 1 - http://localhost:8080/index.html로 접속시 응답
+2017년 7월 22일 수행 시작
 * java socket 통신에 대해서 다시 생각해보자.
-![자바 소켓 ](http://cfile4.uf.tistory.com/image/122250434F6C590930CC67)
+![자바 소켓 스트림](http://cfile4.uf.tistory.com/image/122250434F6C590930CC67)
 
 ### 요구사항 2 - get 방식으로 회원가입
 * 
